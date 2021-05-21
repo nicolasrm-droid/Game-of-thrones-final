@@ -1,0 +1,10 @@
+.App {
+    background: rgb(0, 83, 83);
+    background: radial-gradient(circle, rgb(7, 73, 104) 20%, rgba(3, 6, 27, 1) 98%, rgba(0, 53, 71, 1) 100%);
+   }
+.titulo1{
+    text-align: center;
+    color:#D4AF37 ;
+    text-transform: uppercase;
+}
+
